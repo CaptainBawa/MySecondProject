@@ -1,1 +1,2 @@
 # MySecondProject
+This is my second project after creating raw html recipes website, in this second project am creating a 4 section website and a footer with html and css(flexbox). Am starting by creating the first section first (header) and after that i will style it with css before i move on to the second section and to the third and fourth. Wishing myself well (:  
