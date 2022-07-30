@@ -48,7 +48,6 @@ button {
     background-color: blue;
     color: white;
     padding: 8px;
-    border: blue;
     width: 80px;
     margin-top: 15px;
     border-radius: 10px;
@@ -121,8 +120,35 @@ button {
     color: #1F2937;
     font: 36px;
     font-style: italic;
-    margin: 100px;
-    
-    
-    
+    margin: 150px;
+}
+
+/* Styles For Fourth Section */
+
+.fourth-container {
+    background-color: #ffffff;
+    height: 400px;
+    margin-left: 400px;
+}
+
+.fourth {
+   background-color: #3882f6;
+   color: #ffffff; 
+   display: flex;
+   flex-direction: column;
+   margin: 150px;
+   border-radius: 10px;
+   padding: 30px;
+   justify-content: center;
+   align-items: center;
+   width: 700px;
+}
+
+.only {
+    background-color: #3882f6;
+    margin-left: 80px;
+}
+
+.new {
+    margin-right: 470px;
 }
