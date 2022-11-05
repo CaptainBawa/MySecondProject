@@ -133,19 +133,22 @@ button {
 
 .fourth-container {
     background-color: #f9faf8;
-    height: 400px;
+    height: 300px;
     width: 1920px;
-    
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .fourth {
    background-color: #3882f6;
    color: #ffffff; 
-   margin-top: 100px;
-   margin-left: 580px;
    border-radius: 10px;
    padding: 30px;
    width: 700px;
+   height: 100px;
+   
 }
 
 .only {
